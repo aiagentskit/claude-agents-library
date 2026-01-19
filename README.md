@@ -335,6 +335,4 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 📚 [Learn more at AIAgentsKit.com](https://www.aiagentskit.com) | ⭐ [Star this repo](../../stargazers) | [⬆ Back to Top](#-claude-agents-library)
 
-📧 Questions? Open an issue or reach out at hello@vibecoding.com
-
 </div>
