@@ -16,8 +16,6 @@
 [Cost Optimization](#-cost-optimization) •
 [Visit Website](https://www.aiagentskit.com)
 
-**📖 Full Documentation:** [Read the complete guide](https://vibecoding.com/blog/claude-agents-library)
-
 </div>
 
 ---
