@@ -14,7 +14,7 @@
 [Categories](#categories) •
 [MCP Integration](#-mcp-integration) •
 [Cost Optimization](#-cost-optimization) •
-[Visit Website](https://www.aiagentskit.com)
+[www.aiagentskit.com](https://www.aiagentskit.com)
 
 </div>
 
