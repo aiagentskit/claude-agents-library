@@ -331,7 +331,7 @@ MIT License — See [LICENSE](LICENSE) for details.
 
 ## 🤖 Start Building with AI Agents Today!
 
-**Created by [Vibe Coding](https://vibecoding.com)** — Your guide to building with AI agents
+**Created by [The Vibe Coder]([https://vibecoding.com](https://x.com/quantumaidev))** — Your guide to building with AI agents
 
 📚 [Learn more at AIAgentsKit.com](https://www.aiagentskit.com) | ⭐ [Star this repo](../../stargazers) | [⬆ Back to Top](#-claude-agents-library)
 
