@@ -320,6 +320,7 @@ Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - 🔗 **MCP Integration:** [MCP-INTEGRATION-GUIDE.md](./MCP-INTEGRATION-GUIDE.md)
 - 💰 **Cost Optimization:** [MODEL-SELECTION-GUIDE.md](./MODEL-SELECTION-GUIDE.md)
 - 🤝 **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## License
 
