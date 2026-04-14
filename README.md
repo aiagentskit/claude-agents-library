@@ -313,13 +313,6 @@ Contributions welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 - Improve existing agents with better prompts
 - Fix issues and enhance documentation
 
-## Resources
-
-- 📖 **Full Guide:** [Complete blog post with examples](https://vibecoding.com/blog/claude-agents-library)
-- 🎯 **Agent Selection:** [AGENT-SELECTION-GUIDE.md](./AGENT-SELECTION-GUIDE.md)
-- 🔗 **MCP Integration:** [MCP-INTEGRATION-GUIDE.md](./MCP-INTEGRATION-GUIDE.md)
-- 💰 **Cost Optimization:** [MODEL-SELECTION-GUIDE.md](./MODEL-SELECTION-GUIDE.md)
-- 🤝 **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
 
