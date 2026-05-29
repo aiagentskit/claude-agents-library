@@ -1,0 +1,73 @@
+spec_version: "0.1.0"
+name: claude-agents-library
+version: 1.2.0
+description: >
+  A curated library of 34 production-ready Claude agent configurations spanning
+  7 professional domains: engineering, product, marketing, design,
+  project-management, studio-operations, and testing. Each agent is a
+  detailed markdown persona with core responsibilities, key skills, example
+  prompts, and MCP integration guidance — drop-in ready for Claude Code,
+  Claude Chat, or any system-prompt-compatible runtime.
+author: aiagentskit
+license: MIT
+
+model:
+  preferred: anthropic:claude-sonnet-4-6
+  constraints:
+    temperature: 0.3
+
+skills:
+  # Engineering
+  - ai-engineer
+  - backend-architect
+  - devops-automator
+  - frontend-developer
+  - mobile-app-builder
+  - rapid-prototyper
+  # Product
+  - trend-researcher
+  - feedback-synthesizer
+  - sprint-prioritizer
+  # Marketing
+  - tiktok-strategist
+  - instagram-curator
+  - x-twitter-strategist
+  - reddit-community-builder
+  - app-store-optimizer
+  - content-creator
+  - growth-hacker
+  # Design
+  - ui-designer
+  - ux-researcher
+  - brand-guardian
+  - visual-storyteller
+  - whimsy-injector
+  # Project Management
+  - experiment-tracker
+  - project-shipper
+  - studio-producer
+  # Studio Operations
+  - support-responder
+  - analytics-reporter
+  - infrastructure-maintainer
+  - legal-compliance-checker
+  - finance-tracker
+  # Testing
+  - tool-evaluator
+  - api-tester
+  - workflow-optimizer
+  - performance-benchmarker
+  - test-results-analyzer
+
+runtime:
+  max_turns: 50
+
+compliance:
+  risk_tier: standard
+  supervision:
+    human_in_the_loop: destructive
+    kill_switch: true
+  recordkeeping:
+    audit_logging: false
+  data_governance:
+    pii_handling: redact
